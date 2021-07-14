@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectXamarin.Views.CartView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Margin="50">
+
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image x:Name="lblImageUrl" Grid.Row="0" Aspect="AspectFit"/>
+                    <Label x:Name="lblName" HorizontalOptions="Center" Grid.Row="1"/>
+                    <Label x:Name="lblPrice" HorizontalOptions="Center" Grid.Row="2"/>
+
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="*"/>
+                            <ColumnDefinition  Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Text="Sepete Ekle" Clicked="Button_Clicked" Grid.Column="0" BackgroundColor="Green"/>
+                        <Button Text="Sepete Ekleme" Clicked="Button_Clicked_1" Grid.Column="1" BackgroundColor="Green"/>
+                    </Grid>
+                </Grid>
+
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

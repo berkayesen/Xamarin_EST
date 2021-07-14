@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:pages ="clr-namespace:ProjectXamarin.Views"
+       x:Class="ProjectXamarin.AppShell">
+    
+    
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="MainPage" Icon="home1.png">
+            <pages:FirstPage/>
+        </ShellContent>
+        <Tab Title="Kategoriler" Icon="categories.png" >
+            <ShellContent Title="Kolonya">
+                <pages:Kolonya/>
+            </ShellContent>
+            <ShellContent Title="Kolonyalı Mendil" >
+                <pages:KolonyaliMendil/>
+            </ShellContent>
+            <ShellContent Title="Kişisel Bakım" >
+                <pages:KişiselBakim/>
+            </ShellContent>
+            <ShellContent Title="Ev Bakım" >
+                <pages:EvBakim/>
+            </ShellContent>
+        </Tab>
+        <ShellContent Title="Sepetim" Icon="cart.png">
+            <pages:Sepetim/>
+        </ShellContent>
+        <ShellContent Title="Login" Icon="user.png">
+            <pages:LoginView/>
+        </ShellContent>
+    </FlyoutItem>
+</Shell>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectXamarin.Views.Odeme">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame Margin="40,10,40,30"
+                   Padding="20"
+                   Visual="Material"
+ >
+                <Grid ColumnSpacing="30"
+                      RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="40"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Label Text="Card Number"
+                           LineBreakMode="TailTruncation"
+                           FontSize="12"
+                          
+                           Grid.Row="1"
+                           Grid.Column="0"
+                           Grid.ColumnSpan="2"/>
+
+                    <Entry Placeholder="156161616"
+                            FontSize="20"
+                           
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="2"/>
+
+                    <Label Text="Expiration"
+                           Margin="0,20,0,0"
+                           FontSize="12"
+                         
+                           Grid.Row="3"
+                           Grid.Column="0"/>
+
+                    <Entry Placeholder="AA/YY" 
+                            FontSize="20"
+                           
+                            Grid.Row="4"
+                            Grid.Column="0"/>
+
+                    <Label Text="Cvv"
+                           Margin="0,20,0,0"
+                           FontSize="12"
+                          
+                           Grid.Row="3"
+                           Grid.Column="1"/>
+
+                    <Entry  Placeholder="123" 
+                            FontSize="20"
+                            
+                            Grid.Row="4"
+                            Grid.Column="1"/>
+                </Grid>
+               
+            </Frame>
+            <Button Text="Ödemeyi Tamamla" BackgroundColor="LightGreen" HorizontalOptions="Center" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

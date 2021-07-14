@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectXamarin.Views.CesmeLimonuKolonyasi"
+             xmlns:pages="clr-namespace:ProjectXamarin.ViewModels"
+             Title="Çeşme Limonu Kolonyası">
+    <ContentPage.BindingContext>
+        <pages:CesmeLimonuKolonyasiListView/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView ItemsSource="{Binding CesmeLimonuKolonyasi}"
+                  x:Name="listView" 
+                  ItemSelected="listView_ItemSelected" 
+                  SelectionMode="Single">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell Text="{Binding Name}"
+                                   Detail="{Binding Price}"
+                                   ImageSource="{Binding ImageUrl}"
+                                   Grid.Column="0"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

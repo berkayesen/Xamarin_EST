@@ -1,0 +1,71 @@
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.csprojAssemblyReference.cache
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.AssemblyInfoInputs.cache
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.AssemblyInfo.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.csproj.CoreCompileInputs.cache
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.deps.json
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.dll
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ref\ProjectXamarin.dll
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.pdb
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\FirstPage.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.dll
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ref\ProjectXamarin.dll
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.pdb
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\HawaiAnanasKolonyasi.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Kolonya.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\EvBakim.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\KişiselBakim.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\KolonyaliMendil.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Sepetim.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\BebekKolonyasi.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CesmeLimonuKolonyasi.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CubukluOdaKokulari.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\DisMacunlari.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\LosyonVeKrem.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\MiniKolonyalar.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\MutfakSabunu.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\OdaSpreyi.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Sabun.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\SampuanveSacKremi.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\YuzeyTemizleyici.xaml.g.cs
+C:\Users\mrtar\source\repos\ProjectXamarin\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Filtreleme.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.deps.json
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.dll
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ref\ProjectXamarin.dll
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\bin\Debug\netstandard2.0\ProjectXamarin.pdb
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.csprojAssemblyReference.cache
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\BebekKolonyasi.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CesmeLimonuKolonyasi.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\CubukluOdaKokulari.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\DisMacunlari.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\EvBakim.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Filtreleme.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\FirstPage.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\HawaiAnanasKolonyasi.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\KişiselBakim.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Kolonya.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\KolonyaliMendil.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\LosyonVeKrem.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\MiniKolonyalar.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\MutfakSabunu.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\OdaSpreyi.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Sabun.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\SampuanveSacKremi.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Sepetim.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\YuzeyTemizleyici.xaml.g.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.AssemblyInfoInputs.cache
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.AssemblyInfo.cs
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.csproj.CoreCompileInputs.cache
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.dll
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ref\ProjectXamarin.dll
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\ProjectXamarin.pdb
+C:\Users\mrtar\Desktop\ProjectXamarin - Kopya\ProjectXamarin\ProjectXamarin\obj\Debug\netstandard2.0\Views\Odeme.xaml.g.cs
